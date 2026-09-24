@@ -1,0 +1,251 @@
+RestaurantID,RestaurantName,City,Cuisine,Rating,CostForTwo,FoodType
+1,Hyderabad Express,Hyderabad,Chinese,3.4,500,Veg
+2,Royal Plaza,Hyderabad,Fast Food,3.8,600,Non-Veg
+3,Royal Bowl,Pune,Biryani,3.1,300,Both
+4,Classic Hub,Bengaluru,Biryani,4.4,400,Non-Veg
+5,The Table,Chennai,Bakery,3.9,450,Non-Veg
+6,Hyderabad Bites,Chennai,Bakery,3.3,350,Veg
+7,Grand Spot,Chennai,Bakery,4.9,250,Veg
+8,Coastal Hub,Pune,Street Food,4.5,150,Veg
+9,Bombay Palace,Chennai,Chinese,3.2,700,Non-Veg
+10,Biryani Hut,Bengaluru,Desserts,4.8,700,Veg
+11,Bombay Junction,Ahmedabad,Street Food,3.4,500,Veg
+12,Tasty Kitchen,Hyderabad,Bakery,3.3,600,Non-Veg
+13,Spice Diner,Hyderabad,Chinese,3.5,250,Non-Veg
+14,Royal Bites,Delhi,Bakery,4.3,250,Veg
+15,Classic Express,Mumbai,Desserts,4.3,800,Non-Veg
+16,Bombay Corner,Chennai,Fast Food,3.5,250,Both
+17,Momo Table,Chennai,Chinese,4.3,600,Both
+18,South Express,Hyderabad,Bakery,4.5,450,Non-Veg
+19,Sizzling House,Delhi,North Indian,4.8,700,Non-Veg
+20,Bombay Kitchen,Delhi,Bakery,3.5,700,Veg
+21,Grand House,Chennai,South Indian,3.3,400,Veg
+22,Tasty Diner,Ahmedabad,North Indian,3.4,300,Both
+23,Tasty Express,Pune,South Indian,4.3,150,Non-Veg
+24,Pizza Villa,Delhi,Biryani,3.8,450,Non-Veg
+25,The Palace,Mumbai,Continental,4.5,700,Both
+26,Coastal Point,Ahmedabad,South Indian,4.5,150,Non-Veg
+27,Green Corner,Mumbai,Desserts,3.2,450,Veg
+28,Tasty Garden,Mumbai,Desserts,4.0,700,Non-Veg
+29,Spice Villa,Delhi,Bakery,4.7,250,Veg
+30,Urban Diner,Hyderabad,Italian,3.7,600,Both
+31,The Cafe,Pune,Fast Food,3.3,150,Non-Veg
+32,Bombay Garden,Ahmedabad,Chinese,2.9,150,Non-Veg
+33,Tasty Treats,Ahmedabad,Italian,3.0,300,Veg
+34,Sizzling Bowl,Ahmedabad,South Indian,3.4,450,Non-Veg
+35,Grand Cafe,Mumbai,Street Food,3.6,400,Non-Veg
+36,Biryani Point,Ahmedabad,North Indian,3.4,500,Non-Veg
+37,Coastal Cafe,Bengaluru,Chinese,4.4,800,Veg
+38,The Villa,Hyderabad,Street Food,2.9,450,Both
+39,Momo Garden,Ahmedabad,Bakery,4.7,500,Non-Veg
+40,Tasty Palace,Bengaluru,Street Food,4.0,600,Both
+41,South House,Mumbai,Continental,3.2,250,Veg
+42,Punjabi House,Bengaluru,Biryani,3.0,800,Non-Veg
+43,South Cafe,Chennai,South Indian,3.0,600,Non-Veg
+44,The Diner,Pune,Street Food,3.8,150,Both
+45,South Hut,Kolkata,South Indian,3.7,250,Both
+46,Bombay Hut,Mumbai,South Indian,4.0,200,Non-Veg
+47,The Express,Kolkata,Fast Food,3.6,500,Both
+48,South Table,Bengaluru,Chinese,3.4,250,Both
+49,South Palace,Bengaluru,Biryani,4.7,400,Both
+50,Coastal Kitchen,Ahmedabad,Fast Food,4.7,150,Non-Veg
+51,Sizzling Treats,Pune,Continental,4.6,800,Veg
+52,Coastal House,Pune,Continental,4.4,400,Non-Veg
+53,Momo Plaza,Mumbai,Italian,3.7,450,Both
+54,Biryani Kitchen,Delhi,South Indian,3.5,600,Non-Veg
+55,Golden Spot,Bengaluru,Chinese,3.2,300,Veg
+56,Pizza Kitchen,Chennai,Italian,3.4,500,Both
+57,Dosa Corner,Bengaluru,Italian,3.6,700,Non-Veg
+58,Hyderabad Table,Chennai,Desserts,3.1,350,Both
+59,Spice Palace,Bengaluru,Chinese,4.6,300,Veg
+60,Coastal Junction,Pune,Biryani,3.9,800,Veg
+61,Hyderabad Plaza,Bengaluru,Italian,3.3,350,Both
+62,Green Villa,Kolkata,Desserts,3.8,300,Non-Veg
+63,Sizzling Spot,Kolkata,Bakery,3.0,600,Both
+64,Biryani Garden,Pune,Fast Food,4.2,500,Veg
+65,Curry Cafe,Chennai,Fast Food,3.3,800,Non-Veg
+66,Dosa Diner,Delhi,North Indian,4.2,350,Non-Veg
+67,Momo Palace,Kolkata,North Indian,4.0,700,Veg
+68,Curry Hub,Ahmedabad,Desserts,3.9,250,Both
+69,The Point,Pune,South Indian,3.8,350,Both
+70,Curry Bowl,Hyderabad,Desserts,3.3,350,Non-Veg
+71,Curry Express,Pune,Bakery,3.4,200,Non-Veg
+72,Royal Hut,Mumbai,Continental,4.7,600,Veg
+73,Dosa Spot,Pune,Biryani,2.9,250,Veg
+74,Punjabi Diner,Kolkata,Bakery,4.7,500,Veg
+75,Curry Point,Mumbai,Continental,3.5,250,Non-Veg
+76,Pizza Cafe,Hyderabad,Chinese,4.0,250,Non-Veg
+77,Tasty House,Kolkata,Biryani,3.6,500,Non-Veg
+78,Spice Kitchen,Hyderabad,Desserts,4.8,400,Both
+79,Punjabi Bites,Bengaluru,Italian,3.3,400,Non-Veg
+80,Golden Corner,Kolkata,Street Food,4.0,250,Veg
+81,Royal Treats,Pune,Continental,4.3,700,Both
+82,Curry Villa,Delhi,Desserts,4.9,500,Non-Veg
+83,Punjabi Point,Kolkata,North Indian,3.3,250,Veg
+84,Spice Hut,Delhi,South Indian,3.6,800,Veg
+85,Dosa Cafe,Bengaluru,Bakery,4.9,800,Veg
+86,Urban Villa,Ahmedabad,Biryani,3.1,350,Non-Veg
+87,Golden Junction,Bengaluru,Fast Food,3.7,200,Both
+88,Classic Cafe,Delhi,Biryani,4.5,200,Both
+89,South Corner,Pune,South Indian,4.4,500,Veg
+90,South Junction,Pune,Street Food,4.8,400,Both
+91,Momo Treats,Delhi,North Indian,4.0,300,Both
+92,Grand Diner,Hyderabad,North Indian,2.8,200,Veg
+93,Bombay Table,Delhi,South Indian,4.4,200,Both
+94,Urban Cafe,Hyderabad,Continental,4.9,350,Non-Veg
+95,Urban Point,Bengaluru,Fast Food,3.6,800,Non-Veg
+96,Momo Corner,Mumbai,North Indian,2.8,250,Both
+97,Hyderabad Diner,Chennai,Continental,4.8,350,Both
+98,Urban Palace,Kolkata,Continental,3.4,450,Both
+99,Grand Villa,Delhi,South Indian,3.1,150,Veg
+100,Bombay Zone,Delhi,Bakery,3.6,400,Both
+101,Spice House,Ahmedabad,Continental,3.0,450,Non-Veg
+102,Green Diner,Bengaluru,Street Food,4.4,700,Both
+103,Bombay Hub,Chennai,Street Food,3.9,700,Veg
+104,Momo Hub,Ahmedabad,Desserts,4.2,800,Non-Veg
+105,Golden Garden,Bengaluru,North Indian,4.2,250,Both
+106,Grand Table,Delhi,South Indian,4.4,400,Veg
+107,Royal Spot,Hyderabad,Street Food,4.2,450,Veg
+108,Tasty Zone,Ahmedabad,Bakery,3.7,500,Non-Veg
+109,Curry Corner,Ahmedabad,North Indian,3.0,450,Veg
+110,The Garden,Bengaluru,South Indian,4.5,700,Both
+111,The Junction,Ahmedabad,Desserts,3.6,150,Veg
+112,Pizza Diner,Ahmedabad,Desserts,4.3,200,Veg
+113,Coastal Bites,Chennai,Desserts,4.5,350,Both
+114,Urban Kitchen,Delhi,Continental,3.1,450,Veg
+115,Green Plaza,Hyderabad,Italian,3.1,450,Veg
+116,Pizza Junction,Chennai,South Indian,4.4,150,Both
+117,Pizza Zone,Delhi,Continental,2.8,150,Both
+118,Momo Hut,Ahmedabad,Street Food,4.4,250,Both
+119,Bombay Point,Delhi,South Indian,3.6,700,Both
+120,Curry Spot,Kolkata,Biryani,4.9,300,Non-Veg
+121,Sizzling Zone,Delhi,Chinese,3.7,600,Non-Veg
+122,Punjabi Junction,Pune,Desserts,4.7,250,Both
+123,Hyderabad Spot,Chennai,South Indian,4.4,600,Non-Veg
+124,Sizzling Villa,Bengaluru,Street Food,3.0,450,Veg
+125,Royal Kitchen,Hyderabad,Fast Food,4.4,250,Non-Veg
+126,Green House,Bengaluru,Fast Food,3.2,600,Veg
+127,Biryani Zone,Mumbai,Bakery,4.6,600,Veg
+128,Coastal Spot,Pune,North Indian,4.7,450,Non-Veg
+129,Curry Garden,Bengaluru,North Indian,4.4,300,Both
+130,Pizza Hub,Chennai,Bakery,3.9,700,Veg
+131,Punjabi Treats,Ahmedabad,Chinese,4.9,200,Veg
+132,Royal Villa,Pune,Street Food,3.4,250,Both
+133,Green Bites,Chennai,Continental,4.3,250,Veg
+134,Golden Diner,Bengaluru,Bakery,4.6,350,Non-Veg
+135,Biryani Bowl,Chennai,Street Food,3.3,250,Both
+136,Tasty Spot,Delhi,Biryani,3.9,450,Veg
+137,Biryani Hub,Hyderabad,Desserts,3.5,350,Veg
+138,South Spot,Ahmedabad,Street Food,4.5,800,Veg
+139,Urban Express,Ahmedabad,Italian,4.7,700,Both
+140,Curry Palace,Mumbai,Biryani,3.3,350,Veg
+141,Classic Spot,Ahmedabad,Continental,2.9,800,Veg
+142,Tasty Corner,Delhi,Street Food,3.9,800,Veg
+143,Punjabi Garden,Kolkata,South Indian,4.4,250,Veg
+144,Hyderabad Cafe,Mumbai,Bakery,4.5,350,Non-Veg
+145,Dosa Zone,Kolkata,Biryani,3.5,450,Both
+146,Urban Garden,Bengaluru,Bakery,2.9,700,Veg
+147,Classic Corner,Pune,Fast Food,4.1,350,Non-Veg
+148,Dosa Palace,Bengaluru,Continental,3.1,300,Veg
+149,Dosa Garden,Pune,Chinese,3.4,800,Non-Veg
+150,Spice Garden,Delhi,South Indian,2.9,700,Both
+151,The Bowl,Pune,Italian,4.4,400,Veg
+152,Momo Spot,Delhi,Chinese,3.2,700,Non-Veg
+153,Punjabi Corner,Delhi,Bakery,4.6,600,Non-Veg
+154,Punjabi Hut,Ahmedabad,Desserts,3.5,800,Both
+155,Coastal Corner,Pune,Bakery,2.9,300,Non-Veg
+156,Grand Zone,Chennai,Bakery,4.2,700,Veg
+157,Biryani Diner,Kolkata,Chinese,2.8,300,Veg
+158,Momo Cafe,Chennai,Chinese,4.2,400,Non-Veg
+159,Biryani Treats,Ahmedabad,Street Food,3.0,800,Both
+160,Tasty Cafe,Delhi,Street Food,3.2,800,Veg
+161,Tasty Bites,Bengaluru,Bakery,4.0,700,Veg
+162,Royal Garden,Pune,Street Food,4.7,600,Non-Veg
+163,Golden Express,Kolkata,Italian,4.7,700,Both
+164,Pizza Spot,Mumbai,Biryani,3.6,150,Both
+165,Coastal Plaza,Delhi,Street Food,3.1,250,Veg
+166,Golden Table,Chennai,North Indian,3.3,500,Veg
+167,Royal Junction,Chennai,Biryani,3.8,500,Veg
+168,Royal Diner,Mumbai,Street Food,4.1,350,Both
+169,Green Hut,Delhi,Biryani,4.2,400,Both
+170,Green Palace,Hyderabad,Street Food,3.7,400,Non-Veg
+171,Grand Plaza,Bengaluru,Street Food,4.7,500,Veg
+172,Coastal Bowl,Pune,Italian,3.1,250,Non-Veg
+173,Coastal Villa,Chennai,South Indian,3.8,500,Non-Veg
+174,Hyderabad Villa,Bengaluru,Italian,2.9,700,Both
+175,Hyderabad House,Bengaluru,Bakery,3.1,250,Non-Veg
+176,Dosa Plaza,Bengaluru,Fast Food,4.8,300,Non-Veg
+177,Grand Point,Hyderabad,Biryani,4.1,700,Veg
+178,Green Point,Chennai,Continental,4.1,200,Veg
+179,Spice Junction,Kolkata,Chinese,4.1,250,Non-Veg
+180,South Plaza,Bengaluru,Street Food,3.9,200,Veg
+181,South Garden,Bengaluru,Biryani,3.9,400,Veg
+182,Classic Villa,Hyderabad,Continental,4.5,450,Non-Veg
+183,Golden Cafe,Ahmedabad,Italian,4.7,200,Non-Veg
+184,Classic Bites,Kolkata,Italian,4.2,400,Non-Veg
+185,Biryani Corner,Delhi,Biryani,4.2,350,Non-Veg
+186,Bombay Express,Pune,Biryani,4.4,450,Both
+187,Sizzling Hut,Chennai,Biryani,4.3,800,Veg
+188,Coastal Zone,Delhi,South Indian,3.3,450,Non-Veg
+189,The Plaza,Bengaluru,Chinese,3.6,800,Veg
+190,Momo Bowl,Mumbai,Fast Food,3.3,200,Both
+191,Royal Palace,Kolkata,Bakery,4.2,350,Both
+192,South Kitchen,Delhi,Continental,3.7,300,Both
+193,Classic Treats,Hyderabad,North Indian,4.4,600,Both
+194,Hyderabad Kitchen,Chennai,Italian,4.2,250,Veg
+195,Biryani Palace,Kolkata,Bakery,3.2,150,Both
+196,Tasty Bowl,Pune,Street Food,4.7,400,Non-Veg
+197,Green Hub,Hyderabad,Continental,4.8,700,Veg
+198,Sizzling Diner,Mumbai,Street Food,4.8,600,Both
+199,Green Zone,Kolkata,Bakery,3.8,300,Non-Veg
+200,Bombay Bites,Ahmedabad,South Indian,3.3,450,Both
+201,Biryani Spot,Bengaluru,Fast Food,3.3,200,Non-Veg
+202,Biryani Junction,Pune,Chinese,4.8,800,Veg
+203,Grand Junction,Hyderabad,Italian,4.6,300,Veg
+204,Punjabi Hub,Chennai,Chinese,4.4,200,Veg
+205,Royal Table,Chennai,Bakery,3.5,700,Non-Veg
+206,Dosa Hub,Delhi,North Indian,3.9,450,Non-Veg
+207,The Kitchen,Chennai,Biryani,4.6,250,Non-Veg
+208,Urban Spot,Ahmedabad,Desserts,4.2,150,Both
+209,Punjabi Palace,Mumbai,Desserts,3.6,350,Veg
+210,Momo Junction,Kolkata,Desserts,3.6,450,Non-Veg
+211,Pizza Point,Delhi,Bakery,4.2,200,Both
+212,Dosa Junction,Delhi,Chinese,3.8,150,Veg
+213,Grand Treats,Pune,Street Food,4.6,150,Non-Veg
+214,Green Table,Mumbai,Continental,4.4,350,Non-Veg
+215,Biryani Bites,Kolkata,South Indian,3.5,800,Both
+216,Hyderabad Treats,Chennai,Desserts,4.2,500,Both
+217,Pizza Bowl,Kolkata,Bakery,3.4,800,Veg
+218,Coastal Diner,Chennai,Fast Food,4.3,700,Both
+219,Pizza Express,Ahmedabad,Biryani,3.2,150,Veg
+220,Tasty Junction,Delhi,Biryani,3.0,200,Non-Veg
+221,Classic Bowl,Mumbai,Fast Food,4.1,200,Both
+222,Dosa Treats,Hyderabad,Italian,4.3,500,Both
+223,Golden House,Delhi,North Indian,2.9,400,Non-Veg
+224,The Zone,Delhi,Street Food,3.2,700,Non-Veg
+225,Bombay Villa,Pune,Desserts,3.8,300,Veg
+226,Pizza Treats,Chennai,Biryani,3.3,350,Veg
+227,Spice Spot,Delhi,Desserts,3.4,600,Veg
+228,Sizzling Bites,Kolkata,Fast Food,4.1,150,Both
+229,Tasty Villa,Hyderabad,Street Food,4.4,700,Both
+230,Green Treats,Pune,Biryani,3.2,200,Veg
+231,Golden Treats,Mumbai,Continental,4.1,350,Both
+232,Spice Point,Mumbai,Fast Food,3.4,500,Both
+233,Spice Hub,Mumbai,Chinese,2.8,300,Non-Veg
+234,Grand Express,Ahmedabad,North Indian,3.5,250,Veg
+235,Punjabi Cafe,Kolkata,North Indian,3.1,300,Non-Veg
+236,Pizza Corner,Hyderabad,Continental,3.6,350,Non-Veg
+237,The Spot,Mumbai,Fast Food,3.8,350,Veg
+238,Curry Bites,Delhi,Fast Food,4.0,450,Veg
+239,Grand Bowl,Chennai,North Indian,2.9,800,Veg
+240,The Corner,Delhi,Continental,3.3,600,Both
+241,Dosa Express,Delhi,Fast Food,4.7,500,Both
+242,Pizza Garden,Pune,Street Food,4.3,300,Both
+243,Hyderabad Garden,Chennai,Desserts,4.3,350,Both
+244,Golden Zone,Pune,Fast Food,3.9,500,Veg
+245,Classic Palace,Delhi,North Indian,4.1,400,Both
+246,Classic Table,Delhi,Bakery,3.4,450,Both
+247,Golden Point,Bengaluru,Italian,3.0,300,Veg
+248,Dosa Table,Pune,North Indian,3.6,700,Both
+249,Punjabi Table,Mumbai,Continental,4.5,150,Non-Veg
+250,Classic Kitchen,Mumbai,Fast Food,3.0,300,Both
